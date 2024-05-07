@@ -1,0 +1,14 @@
+.blog{
+    background-color: blueviolet;
+    border: 15px solid red;
+    border-radius: 10%;
+    padding: 15px;
+    margin: 10px;
+    align-items: center;
+    width: 50%;
+}
+.img{
+    width: 50%;
+    border-radius: 10%;
+    
+}
